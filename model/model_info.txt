@@ -1,0 +1,7 @@
+English Version:
+Known Issues:
+Live Camera Recognition: The model performs well when tested on static images, but there are some challenges with live camera recognition. This is due to various factors such as lighting conditions, resolution, and angle variations. The camera-based face recognition functionality is still being improved.
+
+Türkçe Versiyon:
+Bilinen Sorunlar:
+Canlı Kamera Tanıma: Model, sabit resimlerle test edildiğinde iyi sonuçlar verirken, canlı kamera tanımasında bazı zorluklarla karşılaşılmaktadır. Bu, ışık koşulları, çözünürlük ve açı farklılıkları gibi faktörlerden kaynaklanmaktadır. Kamera tabanlı yüz tanıma fonksiyonu halen geliştirilmektedir.
