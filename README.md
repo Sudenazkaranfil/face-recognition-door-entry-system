@@ -1,6 +1,6 @@
 # Face Recognition-Based Door Entry System 🚪🧠
 
-## English EN
+## EN
 
 This project is a real-time face recognition system developed for a university project. It allows only authorized individuals to enter by detecting and recognizing faces using camera input. The goal is to enhance physical security with an automated and intelligent access control solution.
 
@@ -25,7 +25,7 @@ This project is a real-time face recognition system developed for a university p
 
 ---
 
-## Türkçe TR
+## TR
 
 Bu proje, üniversite kapsamında geliştirilen gerçek zamanlı bir yüz tanıma sistemidir. Kamera görüntüsü üzerinden kişilerin yüzlerini algılayarak yalnızca yetkili kişilerin kapıdan geçişine izin verir. Amacı, fiziksel güvenliği artıran otomatik ve akıllı bir giriş kontrolü sağlamaktır.
 
