@@ -1,0 +1,11 @@
+// Add your own users here in the format:
+[
+  {
+    "tr_id_no": "",
+    "password": "",
+    "first_name": ",
+    "last_name": "",
+    "email": "",
+    "role": ""
+  }
+]
